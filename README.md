@@ -19,6 +19,7 @@ graphql
 Copiar
 Editar
 .
+
 ├── input
 
 │   └── imagem_exame.png      # Exemplo de imagem de entrada
